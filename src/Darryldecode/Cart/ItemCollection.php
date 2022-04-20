@@ -29,7 +29,7 @@ class ItemCollection extends Collection
     {
         parent::__construct($items);
 
-        $this->config = $config;
+        $this->config = config('shopping_cart');
     }
 
     /**
