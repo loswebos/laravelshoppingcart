@@ -698,7 +698,7 @@ class Cart
     {
         $rules = array(
             'id' => 'required',
-            'price' => 'required|numeric',
+            'price' => 'nullable|numeric',
             'quantity' => 'required|numeric|min:0.1',
             'name' => 'required',
         );
