@@ -1,5 +1,5 @@
 {
-    "name": "loswebos/cart",
+    "name": "loswebos/laravelshoppingcart",
     "description": "Laravel 5 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
