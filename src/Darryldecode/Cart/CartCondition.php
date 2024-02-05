@@ -15,7 +15,7 @@ class CartCondition {
     /**
      * @var array
      */
-    private $args;
+    public $args;
 
     /**
      * the parsed raw value of the condition
